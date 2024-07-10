@@ -1,1 +1,1 @@
-# I made a mini project Rock-Paper-Scrissor Game using HTML,CSS & JavaScript.
+# I made a mini project Rock-Paper-Scrissor Game using HTML,CSS & JavaScript.This is a simple and mini project.I made this project for only practice purpose and implimentation of my html,css & JavaScript knowledge.If you are a beginner then I think this will help you to take ideas how to build a mini project.So I keep here all the requre images and resourses so that you can use it in your practise project.
